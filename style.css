@@ -8,8 +8,13 @@ body {
 img {
     margin: 0 auto;
     margin: 0 auto;
+    border-color: white;
+    border-style: dotted;
 }
 
+p {
+    text-align: left;
+}
 ul {
     list-style: none;
 }
